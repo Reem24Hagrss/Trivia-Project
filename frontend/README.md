@@ -1,4 +1,4 @@
-# Full Stack Trivia API Frontend
+# Trivia Project Frontend
 
 ## Available Scripts
 
